@@ -1,0 +1,115 @@
+[[Pikchr]]
+arch = "aarch64"
+git-tree-sha1 = "912684789c00023b426ff20c84d636f751b94e63"
+libc = "glibc"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "dae72d11c59173eaa28cd6fdad808118704d012a3778c9ca700665400f7c2f54"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.aarch64-linux-gnu.tar.gz"
+[[Pikchr]]
+arch = "aarch64"
+git-tree-sha1 = "1fb006a8f85074b47aebde5dc3c95267a9c37290"
+libc = "musl"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "61eb986229f1f63aaec502a8eb94b632443d1653aa48b0952acc290873d9449e"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.aarch64-linux-musl.tar.gz"
+[[Pikchr]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f35b632c04c1612d853259879f008e5196fb3cd2"
+libc = "glibc"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "f369b7baaeceb6d03e78d2003a38259d99680c37ef52012089f3415057ab87d1"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.armv7l-linux-gnueabihf.tar.gz"
+[[Pikchr]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cdacabb3824220d280096bd709dc6f344a600887"
+libc = "musl"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "4bedb48310ea8e4eaff9c337e98a337ce3634917a73e333a9bdf47630d0f6f21"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.armv7l-linux-musleabihf.tar.gz"
+[[Pikchr]]
+arch = "i686"
+git-tree-sha1 = "aec5a9cf4414bdc798e35244f94d15e2293880b9"
+libc = "glibc"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "298f42511a1c5aee47a76ac64b762b23eecbdf0d612e079b25a924f3c3996f01"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.i686-linux-gnu.tar.gz"
+[[Pikchr]]
+arch = "i686"
+git-tree-sha1 = "bee179003f758b4e26ee5b9f76571080cc2fa98f"
+libc = "musl"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "81634262c4bb3c1d44e6e37ec99ef6a9b0c2b3d86e8d25d591cb7e55b9f89c49"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.i686-linux-musl.tar.gz"
+[[Pikchr]]
+arch = "i686"
+git-tree-sha1 = "bdba746b93a3ab70888843b7c8287998bca0017d"
+os = "windows"
+
+    [[Pikchr.download]]
+    sha256 = "fe81b5fbee64749ccda277addd6b960a420866238d8db81dc23ecdbfc6c26deb"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.i686-w64-mingw32.tar.gz"
+[[Pikchr]]
+arch = "powerpc64le"
+git-tree-sha1 = "5f2b9597e7d37aad3d1b9eb594ec1eec525e8b65"
+libc = "glibc"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "9c27c8217f6445598807e2f25d89f14474bfdcd74c29a6902d49928a0f520427"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.powerpc64le-linux-gnu.tar.gz"
+[[Pikchr]]
+arch = "x86_64"
+git-tree-sha1 = "d5affa275d648344c951cbd4f7e66ea026e6afa3"
+os = "macos"
+
+    [[Pikchr.download]]
+    sha256 = "477800efd5b2cda43f4023c4e25e4a9b2f8d620f881365103332c55b4df14d72"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.x86_64-apple-darwin.tar.gz"
+[[Pikchr]]
+arch = "x86_64"
+git-tree-sha1 = "b57f61f07228aa2606d89626c64d04f4e6cb2400"
+libc = "glibc"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "78d6636da444423edcc5d6abe15f027526f5e8a36870ec8590e0527c8c497ad7"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.x86_64-linux-gnu.tar.gz"
+[[Pikchr]]
+arch = "x86_64"
+git-tree-sha1 = "5ef1360c8f6fb6e6a517c0c0a990becf01a4b92b"
+libc = "musl"
+os = "linux"
+
+    [[Pikchr.download]]
+    sha256 = "41c06681264bda818c3d987ffb592be601f05ffbc98bb27c68180544edc25768"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.x86_64-linux-musl.tar.gz"
+[[Pikchr]]
+arch = "x86_64"
+git-tree-sha1 = "e6f472f9ad20ba1c832de581ca786dd968e3d4ec"
+os = "freebsd"
+
+    [[Pikchr.download]]
+    sha256 = "5cc1f4c839f598d791e43446fa13894a85966eee53b4f2a6328b9c7d9332237c"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.x86_64-unknown-freebsd.tar.gz"
+[[Pikchr]]
+arch = "x86_64"
+git-tree-sha1 = "b330ace03ec685c2b46eef54c9e34515cf4186e1"
+os = "windows"
+
+    [[Pikchr.download]]
+    sha256 = "0bf657e656c6879de816aa6fa7329ee410dff1e9e1a875ba4d7a9828044fa174"
+    url = "https://github.com/JuliaBinaryWrappers/Pikchr_jll.jl/releases/download/Pikchr-v2020.9.27+0/Pikchr.v2020.9.27.x86_64-w64-mingw32.tar.gz"
